@@ -1,0 +1,1 @@
+The original task file 'object_detection_orig.py' used for this experiment had been adapted from annother task and not cleaned up, so had  variables, events and states remaining in the code that were no longer used.  We therefore include a cleaned up and better commented version of this task as 'object_detection.py'.
