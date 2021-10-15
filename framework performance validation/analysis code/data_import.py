@@ -38,7 +38,7 @@ class Session():
           with the time in milliseconds at which it was printed.
     '''
 
-    def __init__(self, file_path, int_subject_IDs=True):
+    def __init__(self, file_path, int_subject_IDs=False):
 
         # Load lines from file.
 
